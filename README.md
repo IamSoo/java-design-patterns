@@ -11,7 +11,7 @@ There are three types of design patterns:
 Following are the major design pattern examples
 
 ### Strategy Pattern(Behavioral )
-=
+
 *When to Use:*
     We use this pattern when we have multiple algorithms for doing something. For example: I want to go to airport and lets think 
     I have two option - take an auto or book a cab. In both the cases I will do one thing but I can take different options.
